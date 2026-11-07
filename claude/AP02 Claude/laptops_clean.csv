@@ -1,0 +1,121 @@
+product_id,brand,model,ram_gb,storage_gb,color,screen_inch,weight_kg,battery_h,price_chf
+LP-20001,Dell,XPS 13,32,1024,Graphit,13.4,1.19,14,2149.0
+LP-20002,ASUS,Zenbook 14 OLED,16,1024,Blau,14.0,1.2,16,1399.0
+LP-20003,ASUS,ExpertBook B9,32,1024,Schwarz,14.0,0.99,17,2649.0
+LP-20004,ASUS,ExpertBook B9,16,512,Schwarz,14.0,0.99,17,2149.0
+LP-20005,Microsoft,"Surface Laptop 7 13.8""",32,1024,Saphir,13.8,1.34,16,1949.0
+LP-20006,Apple,MacBook Air 13 M4,16,1024,Silber,13.6,1.24,19,1499.0
+LP-20007,Dell,XPS 13,16,512,Platin,13.4,1.19,13,1649.0
+LP-20008,Apple,MacBook Air 15 M4,32,1024,Mitternacht,15.3,1.51,18,2099.0
+LP-20009,Apple,MacBook Air 15 M4,16,1024,Mitternacht,15.3,1.51,19,1748.0
+LP-20010,HP,Pavilion 15,8,256,Silber,15.6,1.75,7,649.0
+LP-20011,ASUS,Zenbook 14 OLED,8,256,Grau,14.0,1.2,16,999.0
+LP-20012,LG,gram 16,32,1024,Weiss,16.0,11.99,17,2248.0
+LP-20013,Microsoft,"Surface Laptop 7 15""",32,1024,Platin,15.0,1.66,17,2249.0
+LP-20014,Dell,Alienware m16 R2,8,256,Schwarz,16.0,3.2,4,2499.0
+LP-20015,HP,Pavilion 15,32,1024,Silber,15.6,1.75,9,1399.0
+LP-20016,HP,Pavilion 15,32,1024,Blau,15.6,1.75,9,1399.0
+LP-20017,HP,Omen 16,16,1024,Schwarz,16.1,2.38,5,1998.0
+LP-20018,Apple,MacBook Pro 14 M4,32,1024,Silber,14.2,1.55,17,2548.0
+LP-20019,ASUS,Vivobook 15,32,1024,Silber,15.6,1.7,7,1298.0
+LP-20020,LG,gram 14,8,256,Weiss,14.0,0.999,17,1199.0
+LP-20021,Apple,MacBook Pro 16 M4 Pro,32,1024,Silber,16.2,2.14,20,
+LP-20022,Acer,Aspire 5,32,1024,Grau,15.6,1.8,7,1249.0
+LP-20023,LG,gram 17,8,256,Grau,17.0,1.35,16,1699.0
+LP-20024,LG,gram 16,16,1024,Grau,16.0,1.199,16,1899.0
+LP-20025,HP,Omen 16,16,512,Schwarz,16.1,2.38,4,1849.0
+LP-20026,HP,Pavilion 15,8,256,Blau,15.6,1.75,9,649.0
+LP-20027,LG,gram 14,16,512,Grau,14.0,0.999,17,1449.0
+LP-20028,LG,gram 16,16,512,Grau,16.0,1.199,16,1749.0
+LP-20029,Apple,MacBook Air 13 M4,32,1024,Mitternacht,13.6,1.24,17,1848.0
+LP-20030,Apple,MacBook Pro 16 M4 Pro,32,1024,Space Schwarz,16.2,2.14,21,
+LP-20031,ASUS,ExpertBook B9,16,1024,Schwarz,14.0,0.99,15,2298.0
+LP-20032,Dell,XPS 13,32,1024,Platin,13.4,1.19,13,2149.0
+LP-20033,ASUS,Vivobook 15,8,256,Silber,15.6,1.7,7,549.0
+LP-20034,Lenovo,IdeaPad Slim 5,16,1024,Grau,14.0,1.46,13,1098.0
+LP-20035,Apple,MacBook Pro 16 M4 Pro,8,256,Space Schwarz,16.2,2.14,20,2899.0
+LP-20036,LG,gram 17,16,512,Grau,17.0,1.35,16,1949.0
+LP-20037,Lenovo,IdeaPad Slim 5,8,256,Blau,14.0,1.46,11,699.0
+LP-20038,Apple,MacBook Air 13 M4,8,256,Himmelblau,13.6,1.24,17,1099.0
+LP-20039,Apple,MacBook Air 15 M4,8,256,Silber,15.3,1.51,19,1349.0
+LP-20040,Apple,MacBook Pro 16 M4 Pro,16,1024,Silber,16.2,2.14,21,
+LP-20041,HP,Pavilion 15,16,1024,Silber,15.6,1.75,8,1049.0
+LP-20042,LG,gram 17,16,1024,Grau,17.0,1.35,16,2099.0
+LP-20043,Acer,Nitro V 15,16,512,Schwarz,15.6,2.1,5,1149.0
+LP-20044,Lenovo,Yoga Slim 7,16,512,Grau,14.0,1.39,15,1448.0
+LP-20045,Lenovo,IdeaPad Slim 5,16,1024,Blau,14.0,1.46,12,1099.0
+LP-20046,Acer,Swift Go 14,32,1024,Silber,14.0,1.32,13,1549.0
+LP-20047,Lenovo,IdeaPad Slim 5,16,512,Grau,14.0,1.46,12,949.0
+LP-20048,Medion,Akoya E15,8,256,Silber,15.6,,7,549.0
+LP-20049,ASUS,ROG Zephyrus G16,16,512,Grau,16.0,1.85,7,2549.0
+LP-20050,Lenovo,Yoga Slim 7,16,1024,Grau,14.0,1.39,15,1599.0
+LP-20051,Apple,MacBook Pro 14 M4,32,1024,Space Schwarz,14.2,1.55,16,2548.0
+LP-20052,Dell,Latitude 7450,32,1024,Grau,14.0,1.35,12,2449.0
+LP-20053,Lenovo,ThinkPad E14 Gen 6,16,512,Schwarz,14.0,1.41,11,1099.0
+LP-20054,LG,gram 14,16,1024,Grau,14.0,0.999,16,1599.0
+LP-20055,ASUS,ROG Zephyrus G16,8,256,Grau,16.0,1.85,5,2299.0
+LP-20056,HP,Envy x360 14,16,512,Schwarz,14.0,1.39,11,1249.0
+LP-20057,Dell,Alienware m16 R2,16,512,Schwarz,16.0,3.2,4,2749.0
+LP-20058,Acer,Aspire 5,16,1024,Grau,15.6,1.8,8,899.0
+LP-20059,Microsoft,"Surface Laptop 7 13.8""",8,256,Saphir,13.8,1.34,16,1199.0
+LP-20060,Apple,MacBook Air 13 M4,16,512,Silber,13.6,1.24,17,1349.0
+LP-20061,Lenovo,Legion 5 Gen 10,16,512,Grau,16.0,2.38,5,1749.0
+LP-20062,Medion,Erazer Crawler E40,16,1024,Schwarz,15.6,,4,1398.0
+LP-20063,Apple,MacBook Air 13 M4,8,256,Silber,13.6,1.24,18,1099.0
+LP-20064,LG,gram 14,32,1024,Weiss,14.0,0.999,17,1949.0
+LP-20065,ASUS,Zenbook 14 OLED,16,512,Grau,14.0,1.2,16,1249.0
+LP-20066,Lenovo,ThinkPad X1 Carbon Gen 13,32,1024,Schwarz,14.0,0.99,14,2749.0
+LP-20067,Microsoft,"Surface Laptop 7 13.8""",16,1024,Saphir,13.8,1.34,15,1599.0
+LP-20068,Lenovo,Yoga Slim 7,32,1024,Grau,14.0,1.39,15,1949.0
+LP-20069,Acer,Swift Go 14,8,256,Silber,14.0,1.32,11,799.0
+LP-20070,Lenovo,ThinkPad X1 Carbon Gen 13,8,256,Schwarz,14.0,0.99,14,1998.0
+LP-20071,Lenovo,ThinkPad E14 Gen 6,32,1024,Schwarz,14.0,1.41,10,1599.0
+LP-20072,Apple,MacBook Pro 14 M4,8,256,Space Schwarz,14.2,1.55,16,1799.0
+LP-20073,HP,Omen 16,32,1024,Schwarz,16.1,2.38,4,2349.0
+LP-20074,Dell,Inspiron 15,8,256,Silber,15.6,1.65,8,599.0
+LP-20075,HP,Envy x360 14,16,1024,Schwarz,14.0,1.39,11,1399.0
+LP-20076,LG,gram 16,16,1024,Weiss,16.0,1.199,17,1899.0
+LP-20077,HP,Pavilion 15,16,1024,Blau,15.6,1.75,8,1048.0
+LP-20078,Microsoft,"Surface Laptop 7 13.8""",32,1024,Platin,13.8,1.34,16,1949.0
+LP-20079,Medion,Akoya E15,16,512,Silber,15.6,,7,799.0
+LP-20080,Medion,Akoya E15,32,1024,Silber,15.6,,7,1299.0
+LP-20081,Lenovo,ThinkPad X1 Carbon Gen 13,16,512,Schwarz,14.0,0.99,15,2248.0
+LP-20082,HP,Envy x360 14,8,256,Schwarz,14.0,1.39,11,998.0
+LP-20083,LG,gram 16,8,256,Grau,16.0,1.199,16,1499.0
+LP-20084,LG,gram 14,16,1024,Weiss,14.0,0.999,16,1599.0
+LP-20085,Lenovo,IdeaPad Slim 5,8,256,Grau,14.0,1.46,13,699.0
+LP-20086,Apple,MacBook Pro 16 M4 Pro,16,1024,Space Schwarz,16.2,2.14,21,
+LP-20087,Dell,Latitude 7450,8,256,Grau,14.0,1.35,12,1699.0
+LP-20088,Dell,XPS 13,16,512,Graphit,13.4,1.19,13,1649.0
+LP-20089,ASUS,ROG Zephyrus G16,16,1024,Grau,16.0,1.85,6,2698.0
+LP-20090,Acer,Swift Go 14,16,512,Silber,14.0,1.32,12,1048.0
+LP-20091,Apple,MacBook Pro 14 M4,16,1024,Space Schwarz,14.2,1.55,17,2198.0
+LP-20092,Dell,Inspiron 15,32,1024,Silber,15.6,1.65,8,1348.0
+LP-20093,Apple,MacBook Air 13 M4,32,1024,Himmelblau,13.6,1.24,19,1849.0
+LP-20094,Microsoft,"Surface Laptop 7 15""",8,256,Platin,15.0,1.66,17,1499.0
+LP-20095,Acer,Aspire 5,16,512,Grau,15.6,1.8,7,748.0
+LP-20096,Acer,Nitro V 15,32,1024,Schwarz,15.6,2.1,4,1649.0
+LP-20097,Apple,MacBook Air 15 M4,8,256,Mitternacht,15.3,1.51,17,1349.0
+LP-20098,Dell,Alienware m16 R2,32,1024,Schwarz,16.0,3.2,4,
+LP-20099,Microsoft,"Surface Laptop 7 13.8""",8,256,Platin,13.8,1.34,15,1199.0
+LP-20100,Apple,MacBook Air 13 M4,16,1024,Himmelblau,13.6,1.24,18,1499.0
+LP-20101,Lenovo,ThinkPad E14 Gen 6,8,256,Schwarz,14.0,1.41,10,848.0
+LP-20102,Lenovo,Legion 5 Gen 10,8,256,Grau,16.0,2.38,6,1499.0
+LP-20103,HP,EliteBook 840 G11,16,1024,Silber,14.0,1.38,12,1898.0
+LP-20104,Apple,MacBook Air 15 M4,16,1024,Silber,15.3,1.51,17,1749.0
+LP-20105,Apple,MacBook Air 13 M4,16,512,Mitternacht,13.6,1.24,18,1349.0
+LP-20106,Dell,XPS 13,16,1024,Graphit,13.4,1.19,14,1798.0
+LP-20107,Lenovo,Legion 5 Gen 10,32,1024,Grau,16.0,2.38,4,2249.0
+LP-20108,ASUS,Zenbook 14 OLED,8,256,Blau,14.0,1.2,15,998.0
+LP-20109,Apple,MacBook Air 13 M4,8,256,Mitternacht,13.6,1.24,18,1099.0
+LP-20110,Dell,Inspiron 15,16,1024,Silber,15.6,1.65,8,999.0
+LP-20111,Microsoft,"Surface Laptop 7 13.8""",16,1024,Platin,13.8,1.34,15,1598.0
+LP-20112,Dell,Latitude 7450,16,512,Grau,14.0,1.35,13,1948.0
+LP-20113,Apple,MacBook Pro 14 M4,16,512,Silber,14.2,1.55,18,2049.0
+LP-20114,Acer,Nitro V 15,16,1024,Schwarz,15.6,2.1,5,1299.0
+LP-20115,HP,EliteBook 840 G11,8,256,Silber,14.0,1.38,12,1499.0
+LP-20116,Apple,MacBook Pro 14 M4,8,256,Silber,14.2,1.55,17,1799.0
+LP-20117,Apple,MacBook Pro 16 M4 Pro,16,512,Silber,16.2,2.14,21,3149.0
+LP-20118,ASUS,Zenbook 14 OLED,32,1024,Blau,14.0,1.2,16,1749.0
+LP-20119,Medion,Erazer Crawler E40,8,256,Schwarz,15.6,,3,999.0
+LP-20120,ASUS,Vivobook 15,16,1024,Silber,15.6,1.7,7,949.0
